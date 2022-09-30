@@ -1,5 +1,5 @@
 # Java-ObjectOriented
 Object Oriented Java Programming.
-This repository is a collection of my OO programming assignments to date.
+Contains a restaurant ordering system.
 They were learning exercises so may be flawed :)
 
